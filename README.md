@@ -12,4 +12,4 @@ follows command example
 
 or 
 
-./linha-de-comando servidores --host github.com
+./linha-de-comando servers --host github.com
